@@ -1,0 +1,29 @@
+Commands:-
+
+
+helm create bank-note-api-helm
+
+helm create <app-name>
+
+
+after creating values and chart and deployment and service file
+
+go to the main folder and do do render template ----
+
+    helm template and <helm code folder name>
+	
+	
+after that
+
+helm install <appname> folder/<chartName.yml name>
+
+==========
+C:\Users\Hp X360\learn_k8\helm_setup\Bank_note_using_Helm> helm install bank-note-api-helm bank-note-api-helm/
+NAME: bank-note-api-helm
+LAST DEPLOYED: Thu Mar 30 08:22:19 2023
+NAMESPACE: default
+STATUS: deployed
+REVISION: 1
+TEST SUITE: None
+
+==========

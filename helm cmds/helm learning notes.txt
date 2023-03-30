@@ -1,0 +1,12 @@
+
+https://augustasberneckas.medium.com/write-helm-charts-for-python-flask-app-ee2777fb458c  ------ helm deploy python package
+
+
+https://github.com/helm/helm/releases/tag/v3.11.2 --- download binariries 
+
+
+
+https://youtu.be/SdTzwYmsgoU  ---- complte end to end
+
+
+
